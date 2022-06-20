@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margem_padrao">16dp</dimen>
+    <dimen name="margin_interna">8dp</dimen>
+    <dimen name="margin_interna_pequena">4dp</dimen>
+    <dimen name="margem_pequena">4dp</dimen>
+    <dimen name="elevation_cardview">8dp</dimen>
+    <dimen name="padding_padrao">8dp</dimen>
+</resources>
